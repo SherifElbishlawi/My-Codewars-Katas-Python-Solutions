@@ -1,2 +1,2 @@
 # My-Codewars-Python-Solutions
-A regularly updated database of my Python solutions to CodeWars problems.
+A regularly updated database of my Python solutions to CodeWars Katas.
